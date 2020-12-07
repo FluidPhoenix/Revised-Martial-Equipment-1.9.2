@@ -1132,7 +1132,7 @@
 			"source": "RME"
 		},
 		{
-			"name": "Kopesh (Simple)",
+			"name": "Khopesh (Simple)",
 			"type": "M",
 			"weapon": true,
 			"weaponCategory": "Axe",
@@ -1158,7 +1158,7 @@
 			"source": "RME"
 		},
 		{
-			"name": "Kopesh (Martial)",
+			"name": "Khopesh (Martial)",
 			"type": "M",
 			"weapon": true,
 			"weaponCategory": "Axe",
@@ -1176,7 +1176,7 @@
 			"source": "RME"
 		},
 		{
-			"name": "Kopesh (Master)",
+			"name": "Khopesh (Master)",
 			"type": "M",
 			"weapon": true,
 			"weaponCategory": "Axe",
@@ -2784,7 +2784,7 @@
 			"source": "RME"
 		},
 		{
-			"name": "Sai (Master",
+			"name": "Sai (Master)",
 			"type": "M",
 			"weapon": true,
 			"weaponCategory": "Dueling Blade",
